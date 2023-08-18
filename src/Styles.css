@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#loginpagelogo{
+    mix-blend-mode: multiply;
+    filter: contrast(3);
+    height: 100px;
+}
+.LoginComponent{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 20px -5px;
+    width: 400px;
+    margin-top: 180px;
+    border-radius: 20px;
+    align-items: center;
+    padding-block: 15px;
+}
